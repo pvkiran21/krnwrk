@@ -1,0 +1,18 @@
+Angular 2 – basic 15 mins
+
+https://www.youtube.com/watch?v=U3qshbC4fLo
+
+continue -> 1 hour by John Papa
+
+https://www.youtube.com/watch?v=1lBxgACVcrQ 
+
+then enter reading angular.io -> Tour Heroes example 
+
+https://angular.io/docs/ts/latest/guide/learning-angular.html
+
+
+you all set for angular 2 but
+
+remember you must go through the type script before to above, as you are building Components on Type Script rather Java Script, there is little video in the main page and start watch before you read docs!
+
+http://www.typescriptlang.org/
