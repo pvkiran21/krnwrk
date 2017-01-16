@@ -21,7 +21,7 @@ Wrapper Classes
 Strings
 
 
-16 . Are all String’s immutable?
+16 . Are all String's immutable?
 17 . Where are String values stored in memory?
 18 . Why should you be careful about String concatenation(+) operator in loops?
 19 . How do you solve above problem?
